@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4576d4a7.css",
+    "main.js": "/static/js/main.5c545108.js",
+    "static/js/787.f5db70bc.chunk.js": "/static/js/787.f5db70bc.chunk.js",
+    "static/media/tway_fly.ttf": "/static/media/tway_fly.f185ccf210dc6f99bad3.ttf",
+    "index.html": "/index.html",
+    "main.4576d4a7.css.map": "/static/css/main.4576d4a7.css.map",
+    "main.5c545108.js.map": "/static/js/main.5c545108.js.map",
+    "787.f5db70bc.chunk.js.map": "/static/js/787.f5db70bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4576d4a7.css",
+    "static/js/main.5c545108.js"
+  ]
+}
